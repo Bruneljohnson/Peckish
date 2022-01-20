@@ -1,0 +1,23 @@
+.footer {
+  max-width: 20rem;
+  margin: 1rem auto;
+  text-align: center;
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: white;
+  text-transform: uppercase;
+  text-shadow: 0 1px 2px #72a542;
+}
+
+.weblink:link,
+.weblink:visited {
+  text-decoration: none;
+  color: #72a542;
+}
+
+.weblink:hover,
+.weblink:active {
+  text-decoration: none;
+  color: #5a1a01;
+}
