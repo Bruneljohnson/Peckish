@@ -1,4 +1,4 @@
-Brunel's Peckish
+BRUNEL'S PECKISH
 ------- OBJECTIVE:
 
 MVP:
