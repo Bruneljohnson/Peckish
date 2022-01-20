@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Peckish/static/css/main.137afc67.chunk.css",
+    "main.js": "/Peckish/static/js/main.2fc1e4dd.chunk.js",
+    "main.js.map": "/Peckish/static/js/main.2fc1e4dd.chunk.js.map",
+    "runtime-main.js": "/Peckish/static/js/runtime-main.94287853.js",
+    "runtime-main.js.map": "/Peckish/static/js/runtime-main.94287853.js.map",
+    "static/js/2.b4540b77.chunk.js": "/Peckish/static/js/2.b4540b77.chunk.js",
+    "static/js/2.b4540b77.chunk.js.map": "/Peckish/static/js/2.b4540b77.chunk.js.map",
+    "index.html": "/Peckish/index.html",
+    "static/css/main.137afc67.chunk.css.map": "/Peckish/static/css/main.137afc67.chunk.css.map",
+    "static/js/2.b4540b77.chunk.js.LICENSE.txt": "/Peckish/static/js/2.b4540b77.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Peckish/static/media/mealTime.b53d7d0c.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94287853.js",
+    "static/js/2.b4540b77.chunk.js",
+    "static/css/main.137afc67.chunk.css",
+    "static/js/main.2fc1e4dd.chunk.js"
+  ]
+}
